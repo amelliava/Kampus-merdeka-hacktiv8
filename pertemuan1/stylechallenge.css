@@ -1,0 +1,149 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    box-shadow: 2px 3px rgb(189, 189, 189);
+    border-radius: 3px;
+}
+
+li{
+    float: right;
+
+}
+
+li a{
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+
+}
+
+li a:hover{
+    background-color: rgb(168, 168, 173);
+    
+}
+
+.card{
+    height: 160px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    position: relative;
+    box-shadow: 2px 3px rgb(189, 189, 189);
+}
+
+.nama{
+    margin-left: 145px;
+    margin-top: -98px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.program{
+    margin-left: 145px;
+    margin-top: -14px;
+    font-size: 12px;
+
+}
+
+.img{
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 50%;
+
+}
+
+.btn{
+    font-family: sans-serif;
+    font-size: 0.7em;
+    background: blue;
+    color: #ffffff;
+    border: white 0.1rem solid;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.4rem;
+    text-decoration: none;
+    margin-left: 140px;
+
+}
+
+.btn:hover{
+    background: #7c7a7a;
+}
+
+.btn1{
+    font-family: sans-serif;
+    font-size: 0.7rem;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 173, 0);
+    border: rgb(0, 173, 0) 0.1rem solid;
+    border-radius: 0.5rem;
+    padding: 0.3rem 0.3rem;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+
+.btn1:hover{
+    background: #7c7a7a;
+}
+
+.text1{
+    margin-left: 400px;
+    margin-top: -110px;
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text2{
+    margin-left: 550px;
+    margin-top: -115px;
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card1{
+    background-color: #ffffff;
+    height: 500px; 
+    
+}
+
+.form-control{
+    width: 1320px;
+    height: 20px;
+
+}
+
+.text{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+
+.btn2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.9em;
+    background: green;
+    color: #ffffff;
+    border: white;
+    padding: 0.3rem;
+    width: 1330px;
+    border-radius: 3px;
+}
+
+.btn2:hover{
+    background: #7c7a7a;
+}
+
+
+
