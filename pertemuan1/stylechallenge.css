@@ -93,7 +93,7 @@ li a:hover{
 }
 
 .text1{
-    margin-left: 400px;
+    margin-left: 600px;
     margin-top: -110px;
     font-size: 13px;
     line-height: 10px;
@@ -102,7 +102,7 @@ li a:hover{
 }
 
 .text2{
-    margin-left: 550px;
+    margin-left: 700px;
     margin-top: -115px;
     font-size: 13px;
     line-height: 10px;
@@ -117,7 +117,7 @@ li a:hover{
 }
 
 .form-control{
-    width: 1320px;
+    width: 1465px;
     height: 20px;
 
 }
@@ -137,7 +137,7 @@ label{
     color: #ffffff;
     border: white;
     padding: 0.3rem;
-    width: 1330px;
+    width: 1470px;
     border-radius: 3px;
 }
 
