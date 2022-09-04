@@ -1,0 +1,7 @@
+BEGIN 
+declare phi with 3.14
+declare value with 0
+calculate 2*phi*r
+store calculation result to value
+print value
+END
